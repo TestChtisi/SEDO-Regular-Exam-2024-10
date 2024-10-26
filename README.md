@@ -1,1 +1,1 @@
- # SEDO-Regular-Exam-2024-10 test commit staging
+ # SEDO-Regular-Exam-2024-10

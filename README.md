@@ -1,1 +1,1 @@
-# SEDO-Regular-Exam-2024-10 test commit develop
+# SEDO-Regular-Exam-2024-10
